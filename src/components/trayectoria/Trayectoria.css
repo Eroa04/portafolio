@@ -1,0 +1,53 @@
+.derecha {
+    float: left;
+    width:40%;
+    height:950px;
+    background-color:white;
+    border-right:1px solid lightgray;
+    margin-right:20%;
+    padding-left:1.5%;
+}
+.nombre {
+    margin-top:5%;
+}
+.textnom {
+    font-size: 42px;
+    color: gray;
+    font-weight:bold;
+}
+.textape {
+    padding-left:1.2%;
+    font-size: 42px;
+    font-weight:bold;
+}
+h2 {
+    font-size:30px;
+}
+.experiencia {
+    margin-top:10%;
+}
+.formacion {
+    margin-top:10%;
+}
+.referencias {
+    margin-top:10%;
+}
+.text1 {
+    font-weight: 600;
+    border-bottom:2px solid black;
+    font-size:20px;
+}
+.text2 {
+    margin-left:10%;
+    font-weight:600;
+    font-size:18px;
+}
+.text3 {
+    margin-left:10%;
+    font-size:16px;
+}
+.text4 {
+    margin-left:10%;
+    font-size:13px;
+    color:#292929;
+}

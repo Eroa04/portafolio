@@ -1,0 +1,39 @@
+.izquierda {
+    float: left;
+    width:20%;
+    height:950px;
+    background-color:lightgray;
+    margin-left:20%;
+}
+.foto {
+    text-align: center;
+    padding-top:10px;
+}
+.foto img {
+    max-width:170px;
+    width:100%;
+    border-radius: 50%;
+}
+.texto1 {
+    font-weight: 600;
+    border-bottom:2px solid black;
+    font-size:16px;
+}
+.sobremi {
+    padding-top:35%;
+    padding:10%;
+}
+.contacto {
+    padding:10%;
+}
+.contacto i {
+    margin-right:5%;
+    margin-top:5%;
+}
+.habilidades {
+    padding:10%;
+}
+progress[value]::-webkit-progress-value {
+    background-color: #3F3F3F;
+}
+

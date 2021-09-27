@@ -1,0 +1,10 @@
+.tel {
+    text-align: center;
+    padding-top:10%;
+}
+.tel i {
+    margin-left:2%;
+}
+.tel h1:hover {
+    color:white;
+}
